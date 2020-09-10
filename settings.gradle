@@ -1,3 +1,8 @@
+include ':p0111_ResValues'
+include ':p0101_Listener'
+include ':p0091_OnClickButtons'
+include ':p0081_ViewById'
+include ':p007_layoutprop'
 include ':p0061_1layout'
 include ':p0061layout'
 include ':p0061'
