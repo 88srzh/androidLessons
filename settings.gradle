@@ -1,3 +1,5 @@
+include ':p013_AndroidConextMenu'
+include ':p013_AndroidContextMenu'
 include ':p0111_ResValues'
 include ':p0101_Listener'
 include ':p0091_OnClickButtons'
